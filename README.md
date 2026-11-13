@@ -1,7 +1,7 @@
 Hello world
 Git Learning
 Git branches
-test remote sync
+Git workflow is documented in feature branches before merging
 
 ## Git Workflow
 
