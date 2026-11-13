@@ -1,7 +1,8 @@
 Hello world
 Git Learning
 Git branches
-Git workflow is documented in feature branches before merging
+
+Git workflow documentation is maintained through feature branches and Pull Requests.
 
 ## Git Workflow
 
