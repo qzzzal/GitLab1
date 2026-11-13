@@ -1,4 +1,4 @@
 Hello world
 Git Learning
 Git branches
-test remote sync
+Git workflow info is maintained in the main branch.
